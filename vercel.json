@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/430624", "destination": "/api/index.py" }
+  ]
+}
