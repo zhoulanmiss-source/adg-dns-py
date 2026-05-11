@@ -13,8 +13,8 @@ from urllib.request import Request, urlopen
 # =========================
 
 UPSTREAMS = [
-    "https://1.1.1.1/dns-query",
-    "https://8.8.8.8/dns-query",
+  'https://cloudflare-dns.com/dns-query',
+  'https://dns.google/dns-query',
 ]
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
