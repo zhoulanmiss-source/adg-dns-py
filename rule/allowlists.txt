@@ -24,6 +24,9 @@ adashbc.ut.taobao.com
 adblock.adguard.com
 address.m.jd.com
 addressapi.meituan.com
+adg-cdn.430624.xyz
+adg-cdn2.430624.xyz
+adg.430624.xyz
 adg.ny.takin.cc
 adguard-dns.io
 admin.dable.io
@@ -99,6 +102,7 @@ cdn.dcloud.net.cn
 cdn.duurzaam.greenchoice.nl
 cdn.rozetka.com.ua
 cdn.ynuf.aliapp.org
+cfyx.430624.xyz
 chaturbate.com
 chickfrp.com
 cindyholbrook.lpages.co
@@ -157,6 +161,7 @@ dualstack-logs.amap.com
 e.cn.miaozhen.com
 e.customeriomail.com
 ecmb.bdimg.com
+edgeone.430624.xyz
 edu-image.nosdn.127.net
 effect.snssdk.com
 email.awscloud.com
@@ -406,7 +411,6 @@ slb-p2p.vcloud.ks-live.com
 smart.360.cn
 smtp.focusgroupresearch.com
 snowflake.qq.com
-sobot.com
 sogoucdn.com
 souti-ims.sm.cn
 soutiapi.quark.cn
@@ -462,6 +466,8 @@ vcentry2.valuecommerce.ne.jp
 vcentry3.valuecommerce.ne.jp
 vcs-quality.zijieapi.com
 vcs.zijieapi.com
+vercel-go.430624.xyz
+vercel-google.430624.xyz
 vip1.kuwo.cn
 vitacost.122.2o7.net
 vs.biz.weibo.com
