@@ -18,7 +18,6 @@ action.metaffiliation.com
 ad-log-upload.mihoyo.com
 ad.kazakinfo.com
 ad.mcloud.139.com
-ad.ourgame.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adashbc.ut.taobao.com
 adblock.adguard.com
@@ -411,6 +410,7 @@ slb-p2p.vcloud.ks-live.com
 smart.360.cn
 smtp.focusgroupresearch.com
 snowflake.qq.com
+sobot.com
 sogoucdn.com
 souti-ims.sm.cn
 soutiapi.quark.cn
