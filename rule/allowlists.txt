@@ -343,10 +343,8 @@ partner.everydays.de
 partner.googleadservices.com
 passport.360.cn
 payapp.weixin.qq.com
-pgpartner.com
 pic.imgdb.cn
 pic2.zhimg.com
-pics.porn300.com
 pitaya.bytedance.com
 pm.funshion.com
 po.funshion.com
