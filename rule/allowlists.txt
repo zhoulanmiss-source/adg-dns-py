@@ -18,6 +18,7 @@ action.metaffiliation.com
 ad-log-upload.mihoyo.com
 ad.kazakinfo.com
 ad.mcloud.139.com
+ad.ourgame.com
 adash-emas.cn-hangzhou.aliyuncs.com
 adashbc.ut.taobao.com
 adblock.adguard.com
@@ -339,12 +340,13 @@ p9-dy.byteimg.com
 p9-flow-imagex-sign.byteimg.com
 pagead.l.doubleclick.net
 pan.quark.cn
-partner.everydays.de
 partner.googleadservices.com
 passport.360.cn
 payapp.weixin.qq.com
+pgpartner.com
 pic.imgdb.cn
 pic2.zhimg.com
+pics.porn300.com
 pitaya.bytedance.com
 pm.funshion.com
 po.funshion.com
@@ -461,11 +463,8 @@ v.miguvideo.com
 v11-luna.douyinvod.com
 v16m-default.akamaized.net
 v5-luna.douyinvod.com
-validate.perfdrive.com
 vas-lf-x.snssdk.com
 vas.snssdk.com
-vcentry2.valuecommerce.ne.jp
-vcentry3.valuecommerce.ne.jp
 vcs-quality.zijieapi.com
 vcs.zijieapi.com
 vercel-go.430624.xyz
@@ -477,7 +476,6 @@ vt.sm.cn
 vv.video.qq.com
 w1.kskwai.com
 waimai-guide.ele.me
-wan.douyu.com
 waphn.189.cn
 weather-analytics-events.apple.com
 weather-data.apple.com.akadns.net
