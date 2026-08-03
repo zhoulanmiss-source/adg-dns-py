@@ -284,7 +284,6 @@ mipstatic.sm-tc.cn
 mobilist.kuwo.cn
 mon.snssdk.com
 mon.zijieapi.com
-monsetting.toutiao.com
 mooc-image.nosdn.127.net
 ms.bdimg.com
 msg.douyu.com
