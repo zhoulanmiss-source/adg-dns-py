@@ -142,6 +142,7 @@ data.flurry.com
 data.notify.macys.com
 data.orders.costco.ca
 data.orders.costco.com
+data.promo.timhortons.ca
 dd-static.jd.com
 develope-oss.lanzoug.com
 developers.google.com
@@ -234,6 +235,7 @@ js.monitor.azure.com
 kcart.alipay.com
 kooldns.cn
 learn.khanacademy.org
+leechers-paradise.org
 lf-c-flwb.bytetos.com
 lf-cdn-tos.bytescm.com
 lf-webcast-gr-sourcecdn.bytegecko.com
