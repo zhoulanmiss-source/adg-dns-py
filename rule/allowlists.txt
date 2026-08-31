@@ -123,6 +123,7 @@ cloudcontrol.live.360.cn
 cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
 cmp.inmobi.com
+cmp.osano.com
 cn.app.chat.xiaomi.net
 cnbj1.fds.api.xiaomi.com
 collect.alipay.com
@@ -505,6 +506,7 @@ www.toutiao.com
 www.wandoujia.com
 wwwimage-tve.cbsstatic.com
 wxsnsdy.wxs.qq.com
+wzzqlm.erbaiwulaoge.com
 x2.ifengimg.com
 xinqiucc.com
 xp.apple.com
