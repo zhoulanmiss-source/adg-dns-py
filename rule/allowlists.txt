@@ -7,6 +7,7 @@
 79423.analytics.edgekey.net
 a.sellpoint.net
 a0.app.xiaomi.com
+aax-fe.amazon.co.jp
 abtest3-misc-lf.zijieapi.com
 ac.dun.163.com
 ac.ebis.ne.jp
@@ -169,6 +170,7 @@ edu-image.nosdn.127.net
 effect.snssdk.com
 email.awscloud.com
 email.elitedangerous.com
+emails.educause.edu
 ex.m.jd.com
 f-cashloan.snssdk.com
 f-cpay.snssdk.com
@@ -436,6 +438,7 @@ support-widget.nakanohito.jp
 supportmetrics.apple.com
 survey.feelgood.cn
 surveymyopinion.researchnow.com
+swasc.homedepot.com
 syndicatedsearch.goog
 szlong.weixin.qq.com
 t.zhipin.com
