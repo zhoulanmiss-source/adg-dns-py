@@ -14,7 +14,6 @@ from urllib.request import Request, urlopen
 
 UPSTREAMS = [
   'https://cloudflare-dns.com/dns-query',
-  'https://dns.google/dns-query',
 ]
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
