@@ -119,7 +119,6 @@ click.trafficguard.ai
 click.virt.exacttarget.com
 clickattr.wayup.com
 client-uc.heytapmobi.com
-cloud.notification-naviextras.com
 cloudcontrol.live.360.cn
 cm-beacon.nakanohito.jp
 cm-widget.nakanohito.jp
@@ -181,7 +180,6 @@ feconf.zhuanzhuan.com
 feed-image.baidu.com
 feed.adrelayer.com
 feentry.zhuanzhuan.com
-forum.notebookreview.com
 foundation.youdao.com
 fp-it.fengkongcloud.com
 g-acs.m.goofish.com
@@ -305,6 +303,7 @@ nineto5mac-d.openx.net
 nsclick.baidu.com
 o1.d.meituan.net
 oa.tr.line.me
+obituaries.startribune.com
 obituaries.therecord.com
 obituaries.thestar.com
 obituaries.toacorn.com
@@ -445,7 +444,6 @@ syndicatedsearch.goog
 szlong.weixin.qq.com
 t.zhipin.com
 tags.crwdcntrl.net
-taiga.maven.io
 tcbox.baidu.com
 tianshu.gtimg.cn
 tieba.baidu.com
