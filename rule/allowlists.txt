@@ -180,6 +180,7 @@ feconf.zhuanzhuan.com
 feed-image.baidu.com
 feed.adrelayer.com
 feentry.zhuanzhuan.com
+forum.notebookreview.com
 foundation.youdao.com
 fp-it.fengkongcloud.com
 g-acs.m.goofish.com
@@ -236,7 +237,6 @@ js.monitor.azure.com
 kcart.alipay.com
 kooldns.cn
 learn.khanacademy.org
-leechers-paradise.org
 lf-c-flwb.bytetos.com
 lf-cdn-tos.bytescm.com
 lf-webcast-gr-sourcecdn.bytegecko.com
@@ -444,6 +444,7 @@ syndicatedsearch.goog
 szlong.weixin.qq.com
 t.zhipin.com
 tags.crwdcntrl.net
+taiga.maven.io
 tcbox.baidu.com
 tianshu.gtimg.cn
 tieba.baidu.com
