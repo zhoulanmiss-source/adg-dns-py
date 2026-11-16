@@ -837,6 +837,7 @@
 111112js.com
 1118hd.45660512.com
 111bbb999kkk.com
+111gj127.lxfutp.cn
 111nru7.khmyiz1v6pwj6h3.cyou
 111ppp888kkk.com
 111s1.cc
@@ -3066,6 +3067,7 @@
 26399.cc
 2639iqjkl.de
 2648aumt.n.cdn6ao.vip
+2648aumt.n.cdnrn.com
 264b0a99f6.com
 2655.com
 2660.com
@@ -7213,6 +7215,7 @@
 8zup.ag8.com
 9.07c225f3.online
 9.f2kif7rht23wkr6kwqftuw99m1u7.cyou
+9000.nhwkj.com
 900226.com
 900623.com
 900868.com
@@ -30326,7 +30329,6 @@ api2.wshareit.com
 api3-normal-hl.fqnovel.com
 api3-normal-lf.fqnovel.com
 api3-normal-lq.fqnovel.com
-api3-normal-sinfonlinec.fqnovel.com
 api3-normal.fqnovel.com
 api3.homemobily.com.br
 api3.matangame.com
@@ -30338,7 +30340,6 @@ api5-normal-lq.fqnovel.com
 api5-normal-lq.toutiaoapi.com
 api5-normal-quic-lf.ixigua.com
 api5-normal-sinfonlineb.dcarapi.com
-api5-normal-sinfonlinec.fqnovel.com
 api5-normal.fqnovel.com
 api6.gentlecure.com
 api64.com
@@ -38917,7 +38918,6 @@ bkhxut1rz.com
 bkibtbefjo.com
 bkihn7.mtrak.pl
 bkijujawkswpp.online
-bkimg.cdn.bcebos.com
 bkjblyuukoavf.site
 bkjgqyasbalgk.website
 bkjhqkohal.com
@@ -95229,6 +95229,7 @@ gyy8jxprwfk6.ltcojebrkx4m6c.cyou
 gyybyitnnqitf.online
 gyyd.6zane.com
 gyyd.du96n.com
+gyyd.dvf77.com
 gyyd.n7d5a.com
 gyyd.wpdpt.com
 gyydua.dakine.com
@@ -102235,6 +102236,8 @@ imdfsqcgexeik.space
 imdns.hpplay.cn
 imdprmebrbbbq.space
 ime-ad-reporter.badambiz.com
+imeaigc.openspeech.cn
+imeclient.openspeech.cn
 imeclient.openspeech.cnhgzs.uunat.com
 imecvabtszpnz.space
 imedia.cz
@@ -102370,6 +102373,8 @@ img.jiguang.cn
 img.jtpspsp.com
 img.juhagngj.xyz
 img.justifiedlaboratories.com
+img.kzfjjaox.cn
+img.kzfjjaox.cn.gccdn.net
 img.learn.abreon.com
 img.leiahngiuheong.xyz
 img.link.cabinetry.com
@@ -104499,6 +104504,7 @@ inps.data.adobedc.net
 inptr.com
 input-whatsapp.com
 inputicicle.com
+inputl1.xfinfr.com
 inputl2.xfinfr.com
 inputmapper.com
 inputspecimen.com
@@ -117004,6 +117010,7 @@ ljyhzllzoymxq.space
 ljyipz.nugnes1920.com
 ljyy846.xyz
 ljyzic8cr.com
+ljz.zunxch.cn
 ljzpq.shopbb.co
 ljzwuvseqsecn.online
 ljzxdu.largus.fr
@@ -129001,9 +129008,6 @@ maplocatesdksnapshot.d.meituan.net
 maplocatesdksnapshot.dreport.meituan.net
 maploco.com
 mapmyuser.com
-maponline0.bdimg.com
-maponline1.bdimg.com
-maponline2.bdimg.com
 mapp.biryanibykilo.com
 mapp.ewm.co.uk
 mapp.jysk.dk
@@ -173558,6 +173562,7 @@ s1.thuishaven.nl
 s1.titaniumfestival.com
 s1.zzz.vn
 s10.cnzz.com
+s10.voicecloud.cn
 s102.cnzz.com
 s103.cnzz.com
 s104.cnzz.com
@@ -173831,6 +173836,7 @@ s4ttas.vip
 s4utm.skirting4u.co.uk
 s5.charliehebdo.fr
 s5.cnzz.com
+s5.voicecloud.cn
 s5.yx-s.com
 s50.cnzz.com
 s51.cnzz.com
@@ -217116,7 +217122,6 @@ stun.ionewu.com
 stun.l.google.com
 stun.qqlive.qq.com
 stun.rapidnet.de
-stun.services.mozilla1.com
 stun.syncthing.net
 stun.voipstunt.com
 stun.voipwise.com
@@ -226942,7 +226947,9 @@ tp.yomonda.de
 tp.your-look-for-less.nl
 tp.your-look-for-less.se
 tp2p.kg.qq.com
+tp4.drleao.cn
 tp4d21qek.com
+tp7.drleao.cn
 tp88trk.com
 tpa-hcdn.iqiyi.com
 tpads.ovguide.com
@@ -247898,12 +247905,14 @@ wsall.gybvidu.com.gccdn.net
 wsall.haohuxx.com.gccdn.net
 wsall.jtkbd.cc.gccdn.net
 wsall.lahuafa.com.gccdn.net
+wsall.nhwkj.com.gccdn.net
 wsall.pvcrp.cn.gccdn.net
 wsall.qyrje.com.gccdn.net
 wsall.qyrje.com.gccdn.net.cd23f.com
 wsall.svtznj.cn.gccdn.net
 wsall.tqpbs.cn.gccdn.net
 wsall.ynhcpf.com.gccdn.net
+wsall.zunxch.cn.gccdn.net
 wsaovlmqyzglj.space
 wsapi-global.master.live
 wsapi.master.live
